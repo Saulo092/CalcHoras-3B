@@ -1,0 +1,39 @@
+#root{
+  background-image: linear-gradient(to bottom, rgb(151, 237, 252), rgb(184, 247, 226));
+  height: 100vh;
+ 
+
+
+  }
+  
+  h1 {
+     text-align: center;
+  
+  }
+  
+  .zeca{
+      text-align: center;
+      background-image: linear-gradient(to bottom, rgb(223, 255, 255), rgb(253, 253, 253));
+      width: fit-content;
+      margin: 0 auto;
+      display: block;
+      border-style: double;
+
+  }
+  
+  input{
+      border-radius: 10px;
+      height: 30px;
+      width: 130px;
+      text-align: center;
+      font-size: medium;
+  }
+  button{
+      border-radius: 15px;
+      width: 100px;
+      height: 30px;
+      background-color: rgb(250, 255, 179);
+  }
+  button:hover{
+      background-color: rgb(184, 247, 226);
+  }
